@@ -1,0 +1,25 @@
+body {
+    color: rgb(var(--bs-tertiary-color-rgb));
+  }
+
+.fixed-width-btn {
+    width: 150px;
+  }  
+
+.white-icon {
+    color:white !important;
+}
+
+.roboto-mono-regular {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-mono-bold {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
